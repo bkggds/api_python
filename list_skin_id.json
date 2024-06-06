@@ -1,0 +1,33 @@
+{
+    "ryoma": {
+        "skin": {
+                   '1':"Thợ săn tiền thưởng",
+                	 "2":"Đại tướng nguyệt tộc",
+                	 "3":"Thanh long bang chủ",
+                	 "4":"Samurai huyền thoại",
+                	 "5":"Dạ hội",
+                	 "6":"Chiến binh Cyborg",
+                	 "7":"Ultraman",
+                	 "8":"Đặc nhiệm Giáng sinh ",
+                	 "9": "Khiêu chiến",
+                	 "10":"Alling samurai",
+                	 "11": "Mapple Frost",
+                	 "12": "Not in list"
+        }
+    },
+    "florentino": {
+        "skin": {
+            "1": 1632,
+            "2": 1633,
+            "3": 1634,
+            "4": 1635,
+            "5": 1636,
+            "6": 1637,
+            "7": 1638,
+            "8": 1639,
+            "9": 16310,
+            "10": 16311,
+            "11": 16312
+        }
+    }
+}
