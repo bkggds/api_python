@@ -1,7 +1,7 @@
 {
     "ryoma": {
         "skin": {
-                   '1':"Thợ săn tiền thưởng",
+                     '1':"Thợ săn tiền thưởng",
                 	 "2":"Đại tướng nguyệt tộc",
                 	 "3":"Thanh long bang chủ",
                 	 "4":"Samurai huyền thoại",
@@ -13,7 +13,7 @@
                 	 "10":"Alling samurai",
                 	 "11": "Mapple Frost",
                 	 "12": "Not in list"
-        }
+                }
     },
     "florentino": {
         "skin": {
