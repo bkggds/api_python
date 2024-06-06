@@ -1,5 +1,5 @@
 {
-  "main":{
-            "hello":"khang"  
-        }
+  "main::{
+      "hello":"khang"
+  }
 }
